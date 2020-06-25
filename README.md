@@ -1,3 +1,3 @@
 # MY_WEB_LIB
 
-![](Stylish_button/LIGHT_BUTTON)
+![](Stylish_button/LIGHT_BUTTON.gif)
